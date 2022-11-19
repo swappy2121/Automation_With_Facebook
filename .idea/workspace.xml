@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a484f34-59d3-445d-8b89-3ea34af267d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays_Methods/Arrays_Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Practice/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryNum/BinaryNum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/Constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10_assignments/Day10_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14_assignments_stacksAndQueue/Day14_assignments_stacksAndQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Assignments(binary tress)/Day15_Assignments(binary tress).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15_Assignments/Day15_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_Assignments/Day21_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22_Assignments/Day22_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day23_Assignments/Day23_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day24_Assignments/Day24_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day30_assignments/Day30_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day34_Assignment/Day34_Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day35_Assigment1/Day35_Assigment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5Assignments1/Day5Assignments1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6_Assignments/Day6_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9_Assignments/Day9_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_11/Day_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookTestCasses/ParallelExecution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_Data_Driven_Framework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/base/Baseclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/keywordengine/Keyword_Driven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/pages/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/main/java/path/FB_DataAdded.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/test/java/keyworddriventest/Execution_keywordDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/test/java/pagetestcasses/HomePageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/test/java/pagetestcasses/LogInPageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_KeywordDrivenFramework/src/test/java/pagetestcasses/SignUpPageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/baseclass/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/config/Config_Data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/pages/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/pages/MenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/pages/SettingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/facebook/qa/pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/qa/extentreportlistener/ExtentReportNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/com/qa/extentreportlistener/Extent_Report_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/com/facebook/qa/testcasses/HomePageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/com/facebook/qa/testcasses/LogInPageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/com/facebook/qa/testcasses/MenuPageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/com/facebook/qa/testcasses/ProfilePageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/com/facebook/qa/testcasses/SettingPageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/com/facebook/qa/testcasses/SignUpPageTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/facebook/qa/baseclass/BaseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/facebook/qa/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/facebook/qa/pages/LogInPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/facebook/qa/pages/MenuPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/facebook/qa/pages/ProfilePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/facebook/qa/pages/SignUpPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/com/qa/extentreportlistener/ExtentReportNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/test-classes/com/facebook/qa/testcasses/HomePageTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/test-classes/com/facebook/qa/testcasses/LogInPageTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/test-classes/com/facebook/qa/testcasses/MenuPageTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/test-classes/com/facebook/qa/testcasses/ProfilePageTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/test-classes/com/facebook/qa/testcasses/SignUpPageTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook_POM/testNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunctionalPrograms/FunctionalPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap_Methods/HashMap_Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hashmap_practice/Hashmap_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImportantCodes/StreamAPI_Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPracticeFiles/JavaPracticeFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Practice1/Java_Practice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkList/LinkList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaximumNumber/MaximumNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/allure-results/0f4f9128-3554-40bf-9066-853940ee64fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/allure-results/57e37a13-0208-4b6f-b350-0d7df852313d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/allure-results/9b50fc66-cfc8-4567-9b45-a3a06566b398-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/allure-results/eaba3ac8-d261-4fcf-995a-b73a8c517ae1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/src/main/java/com/qa/bridgelabz/baseclass/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/src/main/java/com/qa/bridgelabz/pages/Registration_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Page_Object_Model_With_Myntra/src/test/java/com/qa/bridgelabz/testcasses/Registration_Page_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProblems/PracticeProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticePurpose/PracticePurpose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeScanner/PracticeScanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueueOperations1/QueueOperations1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_Demo/Selenium_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_Demo/src/com/Bridgelabz/ExtendReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_Demo/src/com/Bridgelabz/GroupExecutionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_Demo/src/com/Bridgelabz/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_Demo/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupExecution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParallelTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allurereport/AllureReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baseclass/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/extentreport/ExtentReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/SettingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WicketApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PagesTestCasses/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PagesTestCasses/LogInPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PagesTestCasses/ProfilePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PagesTestCasses/SettingPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PagesTestCasses/SignUpPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crossbrowsertesting/CrossBrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/paralleltestbrowsers/ParallelTestBrowsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14_Assignments/day14_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day19_assignments/day19_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20_assignments/day20_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day27_assignments/day27_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day29_Assignments/day29_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_IO_practice/java_IO_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedList111/linkedList111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newWorkshop/newWorkshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Queue_operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Day34_Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day14_assignments_stacksAndQueue/src/com/Bridgelabz" beforeDir="false" afterPath="$PROJECT_DIR$/../Day14_assignments_stacksAndQueue/src/com/Bridgelabz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day35_Assignment/src/main/java/com/bridgelabz" beforeDir="false" afterPath="$PROJECT_DIR$/../Day35_Assignment/src/main/java/com/bridgelabz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacebookTestCasses/src" beforeDir="false" afterPath="$PROJECT_DIR$/../FacebookTestCasses/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium_Demo/src/com/Bridgelabz/WebElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium_Demo/src/com/Bridgelabz/WebElements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HhVDkfV0nadrsW20VmW9syk9kB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/HP/IdeaProjects/Selenium_POM_Practice/GroupExecution.xml">
+    <configuration name="C:/Users/HP/IdeaProjects/Selenium_POM_Practice/GroupExecution.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_Practice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/GroupExecution.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/HP/IdeaProjects/Selenium_POM_Practice/test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_Practice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.verifySearchFieldInHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PagesTestCasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.PagesTestCasses" />
+      <option name="MAIN_CLASS_NAME" value="com.PagesTestCasses.HomePageTest" />
+      <option name="METHOD_NAME" value="verifySearchFieldInHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PagesTestCasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.PagesTestCasses" />
+      <option name="MAIN_CLASS_NAME" value="com.PagesTestCasses.LogInPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInPageTest.verifyId2TextField" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PagesTestCasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.PagesTestCasses" />
+      <option name="MAIN_CLASS_NAME" value="com.PagesTestCasses.LogInPageTest" />
+      <option name="METHOD_NAME" value="verifyId2TextField" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/Selenium_POM_Practice/GroupExecution.xml" />
+        <item itemvalue="TestNG.HomePageTest.verifySearchFieldInHomePage" />
+        <item itemvalue="TestNG.C:/Users/HP/IdeaProjects/Selenium_POM_Practice/test.xml" />
+        <item itemvalue="TestNG.LogInPageTest" />
+        <item itemvalue="TestNG.LogInPageTest.verifyId2TextField" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a484f34-59d3-445d-8b89-3ea34af267d1" name="Changes" comment="" />
+      <created>1668737187252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668737187252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

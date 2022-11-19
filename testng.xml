@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.extentreport.ExtentReport" />
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/Selenium_POM_Practice">
+        <classes>
+            <class name="com.PagesTestCasses.HomePageTest">
+                <methods>
+                    <include name="verifySearchFieldInHomePage"/>
+                    <include name="verifyMenuFieldLogoInHomePage"/>
+                    <include name="verifyFriendsFieldOfHomePage"/>
+                    <include name="verifyGroupsFieldOfPage"/>
+                    <include name="verifyCreateNewGroupFieldOfPage"/>
+                    <include name="verifyCreateNewGroupPlusIconOfPage"/>
+                    <include name="verifyMessengerFieldOfPage"/>
+                    <include name="verifyPlusIconOfHomePage"/>
+                    <include name="verifyNotificationsLinkOfHomePage"/>
+                </methods>
+            </class>
+            <class name="com.PagesTestCasses.LogInPageTest">
+                <methods>
+                    <include name="verifyTitleLogInPage"/>
+                    <include name="verifyIdTextField"/>
+                    <include name="verifyPasswordOfLogInPage"/>
+                    <include name="verifyPasswordOfLogInPage2"/>
+                    <include name="verifyBtnOfLogInPage1"/>
+                    <include name="verifyBtnOfLogInPage2"/>
+                    <include name="verifyForgottenLinkOfPage"/>
+                    <include name="verifyCreateAccBtnEnabledOrNotOfPage"/>
+                </methods>
+            </class>
+            <class name="com.PagesTestCasses.ProfilePageTest">
+                <methods>
+                    <include name="verifyPostsFieldForProfilePage"/>
+                    <include name="verifyAboutFieldLogoInProfilePage"/>
+                    <include name="verifySearchFieldForProfilePage"/>
+                    <include name="verifyFriendsFieldOfProfilePage"/>
+                    <include name="verifyPhotosFieldOfPage"/>
+                    <include name="verifyvideosFieldOfPage"/>
+                    <include name="verifyCheck_InFieldOfPage"/>
+                    <include name="verifyAddStoryFieldOfPage"/>
+                    <include name="verifyEditDetailsFieldOfProfilePage"/>
+                    <include name="verifyAddCoverPhotosFieldOfProfilePage"/>
+                </methods>
+            </class>
+            <class name="com.PagesTestCasses.SettingPageTest">
+                <methods>
+                    <include name="verifyGeneralFieldOfPage"/>
+                    <include name="verifySecurityAndPrivacyFieldOfPage"/>
+                    <include name="verifyFacebookInfoOfPage"/>
+                    <include name="verifyPrivacyFieldOfPage"/>
+                    <include name="verifyPublicPostsOfPage"/>
+                    <include name="verifyBlockingFieldOfPage"/>
+                    <include name="verifyLocationFieldOfPage"/>
+                    <include name="verifyLanguageAndRegionFieldOfSignUpPage"/>
+                    <include name="verifyStoriesofPage"/>
+                    <include name="verifyBusinessIntegrationFieldOfPage"/>
+                </methods>
+            </class>
+            <class name="com.PagesTestCasses.SignUpPageTest">
+                <methods>
+                    <include name="verifyTitleSignUpPage"/>
+                    <include name="verifyLastNameOfSignUpPage"/>
+                    <include name="verifyEmailFieldOfSignUpPage"/>
+                    <include name="verifypassFieldOfSignUpPage"/>
+                    <include name="verifyBirthDayFieldOfSignUpPage"/>
+                    <include name="verifyBirthMonthFieldOfSignUpPage"/>
+                    <include name="verifyBirthYearFieldOfSignUpPage"/>
+                    <include name="verifyGenderFieldOfSignUpPage"/>
+                    <include name="verifySubmitbtnOfSignUpPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
